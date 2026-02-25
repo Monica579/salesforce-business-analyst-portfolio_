@@ -230,7 +230,7 @@ As a business owner
 I want approval required for high-risk orders
 So that financial and operational risks are controlled
 
-•	Acceptance Criteria
+	Acceptance Criteria
 Approval triggered when:
 •	Rush Order = true OR
 •	Quantity exceeds defined threshold
